@@ -2,9 +2,19 @@
   "name": "tasks-mobile",
   "author": "kstiopin",
   "license": "ISC",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
   "dependencies": {
-    "react": "16.8.3"
+    "react": "16.8.3",
+    "react-native": "0.59.8"
+  },
+  "devDependencies": {
+    "@babel/core": "7.4.5",
+    "@babel/runtime": "7.4.5",
+    "metro-react-native-babel-preset": "0.54.1",
+    "react-test-renderer": "16.8.3"
   },
   "repository": {
     "type": "git",
