@@ -1,0 +1,13 @@
+{
+  "name": "tasks-mobile",
+  "author": "kstiopin",
+  "license": "ISC",
+  "version": "0.0.1",
+  "dependencies": {
+    "react": "16.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kstiopin/tasks-mobile.git"
+  }
+}
